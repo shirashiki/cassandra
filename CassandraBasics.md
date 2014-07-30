@@ -4,7 +4,9 @@
 A quick Cassandra guide for beginners.
 
 **Cassandra in 50 Words or Less**
+
 Excerpt from Hewitt, Eben. Cassandra, The Definite Guide:
+
 “Apache Cassandra is an open source, distributed, decentralized, elastically scalable,
 highly available, fault-tolerant, tuneably consistent, column-oriented database that
 bases its distribution design on Amazon’s Dynamo and its data model on Google’s
